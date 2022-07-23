@@ -4,10 +4,10 @@
 
 ---
 
-* Karakter	 	    ID 	Hasar 	Sağlık	 Para
-  * Samuray      1	    5			 21			15
-  * Okçu             2        7            18             20
-  * Şovalye        3         8            24             5
+* Karakter
+  * Samuray ID: 1 Hasar: 5 Sağlık: 21 Para: 15
+  * Okçu ID: 2 Hasar: 7 Sağlık: 18 Para: 20
+  * Şovalye ID: 3 Hasar: 8 Sağlık: 24 Para: 5
 
 ---
 
@@ -15,11 +15,11 @@
 
 ---
 
-* Canavar 		 	ID 	 Hasar 	Sağlık	 Para
-  * Zombi 		  1		4			 10			 4
-  * Vampir          2        6             15             7
-  * Ayı                 3        10            20           12
-  * Yılan              4       3-6           12             3
+* Canavar
+  * Zombi ID: 1 Hasar: 4 Sağlık: 10 Para:4
+  * Vampir ID: 2 Hasar: 6 Sağlık: 15 Para: 7
+  * Ayı ID: 3 Hasar: 10 Sağlık: 20 Para: 12
+  * Yılan ID: 4 Hasar: 3-6 Sağlık: 12 Para: 3
 
 ---
 
@@ -27,10 +27,10 @@
 
 ---
 
-* Silah					ID	  Hasar 	  Para
-  * Kılıç			   1		 2		      15
-  * Tabanca       2         4              25
-  * Tüfek            3         7              35
+* Silah
+  * Kılıç ID: 1 Hasar: 2 Para: 15
+  * Tabanca ID: 2 Hasar: 4 Para: 25
+  * Tüfek ID: 3 Hasar: 7 Para: 35
 
 ---
 
@@ -38,10 +38,10 @@
 
 ---
 
-* Zırh 					ID  	Engelleme	   Para
-  * Hafif			 1  	     1					10
-  * Orta              2           3                    25
-  * Ağır               3           5                    35
+* Zırh
+  * Hafif ID: 1 Engelleme: 1 Para: 10
+  * Orta ID: 2 Engelleme: 3 Para: 25
+  * Ağır ID: 3 Engelleme: 5 Para. 35
 
 ---
 
